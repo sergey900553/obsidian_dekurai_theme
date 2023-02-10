@@ -1,4 +1,4 @@
-"Dekurai" is a theme where I tried to combine clean nice colors, minimalism and functionality. Technically this [Dark Moss v2.0](https://github.com/sergey900553/obsidian_githublike_theme).
+"Dekurai" is a theme where I tried to combine clean nice colors, minimalism and functionality. Technically this is [Dark Moss v2.0](https://github.com/sergey900553/obsidian_githublike_theme).
 # Highlights
 In addition to the fact that this theme is great, I would like to highlight certain points that made my user experience better.
 ## Editing and Reading mode remain consistent.
