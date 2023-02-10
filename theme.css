@@ -70,9 +70,10 @@
 
   --inline-title-color: unset;
   --h1-color: hsl(205, 75%, 60%);
-  --h2-color: hsl(145, 75%, 65%);
+  /* --h2-color: hsl(145, 75%, 65%); old color*/
+  --h2-color:   hsl(145, 47%, 57%);
   --h3-color: hsl(180, 75%, 55%);
-  --h4-color: hsl(60, 60%, 65%);
+  --h4-color: hsl(60, 50%, 60%);
   --h5-color: hsl(0, 75%, 65%);
   --h6-color: hsl(313, 65%, 65%);
   --heading-formatting: unset;
