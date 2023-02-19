@@ -260,8 +260,8 @@ body:not(.is-grabbing) .nav-file-title.is-selected:hover {
 /* margin basic*/
 
 p {
-  margin-block-start: 0.8rem;
-  margin-block-end: 0.8rem;
+  margin-block-start: 0.8em;
+  margin-block-end: 0.8em;
 }
 
 
