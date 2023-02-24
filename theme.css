@@ -126,6 +126,10 @@
 
 }
 
+/* title padding */
+.markdown-reading-view .inline-title {
+    padding: 0;
+}
 
 /* flashing */
 
