@@ -289,9 +289,9 @@ p {
 
 /* Code blocks */
 
-body:not(.no-codeblock-line-numbers) .HyperMD-codeblock.cm-line:not(.HyperMD-codeblock-begin, .HyperMD-codeblock-end) {
+/* body:not(.no-codeblock-line-numbers) .HyperMD-codeblock.cm-line:not(.HyperMD-codeblock-begin, .HyperMD-codeblock-end) {
     word-break: break-all;
-}
+} */
 
 
 .cm-inline-code,
