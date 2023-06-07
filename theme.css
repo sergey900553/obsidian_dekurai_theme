@@ -36,12 +36,12 @@
 
 
   --link-color: hsl(171, 88%, 38%);
-  --link-color-hover: hsl(171, 88%, 48%);
+  --link-color-hover: hsl(171, 95%, 48%);
   --link-unresolved-color: hsl(171, 88%, 38%);
 
 
   --link-external-color: hsl(171, 88%, 38%);
-  --link-external-color-hover: hsl(171, 88%, 48%);
+  --link-external-color-hover: hsl(171, 95%, 48%);
 
   --code-normal: #7095c2;
 
