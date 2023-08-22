@@ -126,6 +126,14 @@
 
 }
 
+
+@media(max-width: 950px) {
+	.theme-dark{
+		 --file-line-width: 98vw;
+	}
+}
+
+
 /* title padding */
 .markdown-reading-view .inline-title {
     padding: 0;
