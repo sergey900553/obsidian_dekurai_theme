@@ -129,7 +129,10 @@
 
 @media(max-width: 950px) {
 	.theme-dark{
-		 --file-line-width: 98vw;
+		 --file-line-width: 100%;
+	}
+	.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+    padding: var(--size-4-5);
 	}
 }
 
@@ -423,4 +426,9 @@ body:not(.no-codeblock-line-numbers) .markdown-preview-view pre code {
 /* hide attachments folder */
 div[data-path='0attachments'] {
   display: none;
+}
+
+
+.cm-header-1 ~ a {
+  color: red;
 }
